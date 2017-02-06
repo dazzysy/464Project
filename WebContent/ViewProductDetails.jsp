@@ -148,7 +148,7 @@
 					
 				<div class="col-sm-1">
 					<div class="mostRightDiv">
-						<form style="margin-top:-85px;" action="Login.jsp">
+						<form style="margin-top:-85px;" action="View&CheckoutShoppingCart.jsp">
 							<div class="form-group" style="">
 	    						<label for="userName">Qty: </label>
 	   		 					<input type="number" class="form-control" id="quantity" name="quantity">

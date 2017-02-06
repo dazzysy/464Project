@@ -188,6 +188,8 @@
 					
 					<hr class="style1">
 				</div>
+				
+				<a style="margin: 20px 250px;" class="btn btn-lg" href="ManageOrder.jsp">Click here to bring you to current order!</a>
 			</div>
 			<div class="col-sm-2"></div>
 		</div>
